@@ -20,9 +20,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: 
+    twitter: santiago500
     github:  santiago500
-    linkedIn: in/
+    linkedIn: in/santiago500
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
