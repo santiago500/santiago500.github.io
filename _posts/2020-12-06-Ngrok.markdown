@@ -9,20 +9,23 @@ En este post quiero incluir algunas notas sobre Ngrok.
 
 Descargas [enlace][enlace]
 
-comandos:
+iniciar servidor apache:
 
 ```shell
 /etc/init.d/apache2 start
 ```
 
+ubicacion
+
 ```shell
 cd /var/www/html
 ```
+
+instalacion
 
 ```shell
 apt install apache2
 ```
 
-Puede verificar la lista de comandos en el [sitio oficial][sitio-oficial] para más información.
 
-[enlace]: https://superuser.com/questions/162690/how-can-i-delete-time-machine-files-using-the-commandline
+[enlace]: https://ngrok.com
