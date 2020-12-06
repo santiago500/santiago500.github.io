@@ -1,6 +1,6 @@
-title: Ing. Henry Guzmán
+title: Juan Santiago
 author: GitHub User
-email: hguzman10@gmail.com
+email: jdsantiago9@misena.edu.co
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,17 +12,17 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Ing. Henry Guzmán
+  name: Juan Santiago
   tagline: Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-  disqus_shortname: hguzman
+  disqus_shortname: santiago500
 
   # generate social links in footer
   social_links:
-    twitter: hguzman10
-    github:  hguzman
-    linkedIn: in/hguzman10
+    twitter: 
+    github:  santiago500
+    linkedIn: in/
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
