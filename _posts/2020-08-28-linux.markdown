@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "linux"
+date:   2020-08-28 13:00:00 +0530
+categories: linux
+---
+
+## Lista de instrucciones
+
+### pwd
+
+```ps -fA | grep chromedriver```
+
+Muestra los procesos activos para chromedriver
+
