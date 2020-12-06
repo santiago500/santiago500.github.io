@@ -4,7 +4,7 @@ title:  "Ngrok"
 date:   2020-12-06 12:02:36 +0530
 categories: SO Time-Machine
 ---
-En el día de hoy me encontré con el problema de tratar de borrar un archivo que tenía en un disco duro que use para realizar una con Time Machine.
+En este post quiero incluir algunas notas sobre Ngrok.
 
 Quería simplemente borrar ese archivo pero el sistema no lo permitía.
 
