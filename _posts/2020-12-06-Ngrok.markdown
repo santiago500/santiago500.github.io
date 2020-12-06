@@ -2,20 +2,26 @@
 layout: post
 title:  "Ngrok"
 date:   2020-12-06 12:02:36 +0530
-categories: SO Time-Machine
+categories: Ngrok
 ---
 En este post quiero incluir algunas notas sobre Ngrok.
 
-Quería simplemente borrar ese archivo pero el sistema no lo permitía.
 
-Encontré este excelente [enlace][enlace]
+Descargas [enlace][enlace]
 
-Simplemente use el comando:
+comandos:
 
 ```shell
-sudo /System/Library/Extensions/TMSafetyNet.kext/Contents/Helpers/bypass rm -rfv /Volumes/[disk]/Backups.backupdb/[path]
+/etc/init.d/apache2 start
 ```
 
+```shell
+cd /var/www/html
+```
+
+```shell
+apt install apache2
+```
 
 Puede verificar la lista de comandos en el [sitio oficial][sitio-oficial] para más información.
 
