@@ -1,4 +1,4 @@
-title: Juan Santiago
+title: Santiago
 author: GitHub User
 email: jdsantiago9@misena.edu.co
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -12,7 +12,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Juan Santiago
+  name: Santiago
   tagline: Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
