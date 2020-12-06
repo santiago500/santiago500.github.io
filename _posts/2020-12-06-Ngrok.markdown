@@ -9,23 +9,22 @@ En este post quiero incluir algunas notas sobre Ngrok.
 
 Descargas [enlace][enlace]
 
-iniciar servidor apache:
-
-```shell
-/etc/init.d/apache2 start
-```
-
-ubicacion
-
-```shell
-cd /var/www/html
-```
-
-instalacion
+instalacion servidor apache
 
 ```shell
 apt install apache2
 ```
 
+ubicacion:
+
+```shell
+cd /var/www/html
+```
+
+iniciar servidor apache2
+
+```shell
+/etc/init.d/apache2 start
+```
 
 [enlace]: https://ngrok.com
