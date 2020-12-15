@@ -35,12 +35,12 @@ python3 -m http.server 8080
 
 Descomentar
 
-<img src="{{ "/assets/img/tor.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
-
-
 ```shell
 nano /etc/tor/torrc
 ```
+
+<img src="{{ "/assets/img/tor.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
+
 
 Direccion del hostname
 
