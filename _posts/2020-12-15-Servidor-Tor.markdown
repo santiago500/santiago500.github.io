@@ -7,7 +7,6 @@ categories: Tor
 En este post quiero incluir algunas notas sobre el servidor Tor.
 
 
-Descargar Ngrok [enlace][enlace]
 
 instalacion servidor python3
 
@@ -51,5 +50,3 @@ iniciar servidor Tor
 ```shell
 sudo tor
 ```
-
-[enlace]: https://ngrok.com
