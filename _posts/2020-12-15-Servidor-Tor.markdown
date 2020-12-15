@@ -4,7 +4,7 @@ title:  "Servidor Tor"
 date:   2020-12-06 12:02:36 +0530
 categories: Tor
 ---
-En este post quiero incluir algunas notas sobre el servidor Tor.
+En este post quiero incluir algunas notas sobre la instalacion del servidor Tor.
 
 
 
