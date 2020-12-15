@@ -16,13 +16,13 @@ plainwhite:
   tagline: Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-  disqus_shortname: santiago500
+  disqus_shortname: santiago60
 
   # generate social links in footer
   social_links:
-    twitter: santiago500
-    github:  santiago500
-    linkedIn: in/santiago500
+    twitter: santiago60
+    github:  santiago60
+    linkedIn: in/santiago60
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
