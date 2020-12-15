@@ -4,7 +4,7 @@ title:  "Servidor Tor"
 date:   2020-12-06 12:02:36 +0530
 categories: Tor
 ---
-En este post quiero incluir algunas notas sobre la instalacion del servidor Tor.
+En este post quiero incluir algunas notas sobre la instalacion del servidor Tor y como se utiliza.
 
 
 
@@ -20,6 +20,15 @@ instalacion Tor:
 sudo apt-get tor
 ```
 
+Descomentar
+
+```shell
+nano /etc/tor/torrc
+```
+
+<img src="{{ "/assets/img/tor.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
+
+
 iniciar servidor python3
 
 ```shell
@@ -32,24 +41,14 @@ O
 python3 -m http.server 8080
 ```
 
-
-Descomentar
+iniciar servidor Tor
 
 ```shell
-nano /etc/tor/torrc
+sudo tor
 ```
-
-<img src="{{ "/assets/img/tor.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
-
 
 Direccion del hostname
 
 ```shell
 cat /var/lib/tor/hidden_service/hostname
-```
-
-iniciar servidor Tor
-
-```shell
-sudo tor
 ```
