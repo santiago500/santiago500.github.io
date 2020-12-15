@@ -1,48 +1,55 @@
 ---
 layout: post
-title:  "Ngrok"
+title:  "Servidor"
 date:   2020-12-06 12:02:36 +0530
-categories: Ngrok
+categories: Tor
 ---
-En este post quiero incluir algunas notas sobre Ngrok.
+En este post quiero incluir algunas notas sobre el servidor Tor.
 
 
 Descargar Ngrok [enlace][enlace]
 
-instalacion servidor apache
+instalacion servidor python3
 
 ```shell
-apt install apache2
+sudo apt-get install python3
 ```
 
-ubicacion:
+instalacion Tor:
 
 ```shell
-cd /var/www/html
+sudo apt-get tor
 ```
 
-iniciar servidor apache2
+iniciar servidor python3
 
 ```shell
-/etc/init.d/apache2 start
+python3 -m http.server --bind 127.0.0.1 8080
 ```
 
-iniciar Ngrok
+O
 
 ```shell
-./ngrok http 80
+python3 -m http.server 8080
 ```
 
-iniciar SSH
+
+Descomentar
 
 ```shell
-./ngrok tcp 22
+nano /etc/tor/torrc
 ```
 
-ejemplo
+Direccion del hostname
 
 ```shell
-kali@0.tcp.ngrok.io:10908
+cat /var/lib/tor/hidden_service/hostname
+```
+
+iniciar servidor Tor
+
+```shell
+sudo tor
 ```
 
 [enlace]: https://ngrok.com
