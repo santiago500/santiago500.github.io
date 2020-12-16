@@ -20,15 +20,15 @@ En este documento he recopilado algunos comandos linux utilizados en ubuntu.
 
 ### mkdir carpeta
 
-Crea una nueva carpeta en la ruta actual
+  Crea una nueva carpeta en la ruta actual
 
 ### cd
-
-Cambia de carpeta o directorio, se puede utilizar **cd ..** para regresar a la carpeta anterior
+  
+  Cambia de carpeta o directorio, se puede utilizar **cd ..** para regresar a la carpeta anterior
 
 ### rm -rf carpeta
-
-Elimina carpeta en el directorio actual
+  
+  Elimina carpeta en el directorio actual
 
 ### chmod 777 archivo
 
