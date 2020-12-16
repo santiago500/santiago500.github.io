@@ -17,7 +17,7 @@ sudo apt-get install python3
 instalacion Tor:
 
 ```shell
-sudo apt-get tor
+sudo apt-get install tor
 ```
 
 Descomentar
