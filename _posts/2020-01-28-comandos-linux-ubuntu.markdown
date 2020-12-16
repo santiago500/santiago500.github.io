@@ -32,3 +32,15 @@ Elimina carpeta en el directorio actual
 ### chmod 777 archivo
 
 Cambia los permisos de un archivo o carpeta
+
+### cp -r archivo /home/ruta_para_la_copia
+
+copia un archivo o carpeta 
+
+### mv archvo /home/ruta_para_el_archivo
+
+mueve un archivo o carpeta
+
+### mv archivo nuevo_nombre_del_archivo
+
+renombra archivo o carpeta
