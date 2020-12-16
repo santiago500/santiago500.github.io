@@ -24,7 +24,6 @@ Documento interesante sobre como iniciar con [Git y GitHub][git].
 [![Atom](https://img.youtube.com/vi/xGU5sJtMdDw/0.jpg)](https://www.youtube.com/watch?v=xGU5sJtMdDw)
 
 ## Un blog con casos de uso reales
-Trabajando en el proyecto [fleteo][fleteo] encontré un [blog][blog] donde explicaban algunos casos de uso reales cobre el uso de git y considero que está muy bien explicado y puede servir a personas que aprenden sobre cómo usar git
+Trabajando en mi proyecto, encontré un [blog][blog] donde explicaban algunos casos de uso reales cobre el uso de git y considero que está muy bien explicado y puede servir a personas que aprenden sobre cómo usar git
 
-[fleteo]: https://fleteo.co/
 [blog]: https://platzi.com/blog/flujo-de-trabajo-y-comandos-oscuros-de-git/
