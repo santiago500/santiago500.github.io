@@ -42,14 +42,12 @@ Elimina carpeta en el directorio actual
 ```shell
 chmod 777 archivo
 ```
----
 
 Cambia los permisos de un archivo o carpeta
 
 ```shell
 cp -r archivo /home/ruta_para_la_copia
 ```
----
 
 copia un archivo o carpeta 
 
