@@ -20,12 +20,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: notengo
+    telegram: Santiago60
     github:  santiago60
-    linkedIn: in/notengo
     whatsapp: 573017454361
-    facebook: notengo
-    instagram: notengo
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
