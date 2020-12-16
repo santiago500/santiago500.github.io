@@ -8,7 +8,6 @@ En el día de hoy me encontré con el problema de tratar de borrar un archivo qu
 
 Quería simplemente borrar ese archivo pero el sistema no lo permitía.
 
-Encontré este excelente [enlace][enlace]
 
 Simplemente use el comando:
 
@@ -17,6 +16,6 @@ sudo /System/Library/Extensions/TMSafetyNet.kext/Contents/Helpers/bypass rm -rfv
 ```
 
 
-Puede verificar la lista de comandos en el [sitio oficial][sitio-oficial] para más información.
+Puede verificar la lista de comandos en el [sitio oficial][sitio oficial] para más información.
 
-[enlace]: https://superuser.com/questions/162690/how-can-i-delete-time-machine-files-using-the-commandline
+[sitio oficial]: https://superuser.com/questions/162690/how-can-i-delete-time-machine-files-using-the-commandline
