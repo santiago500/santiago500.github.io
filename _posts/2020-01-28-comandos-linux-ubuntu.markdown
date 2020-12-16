@@ -45,3 +45,7 @@ En este documento he recopilado algunos comandos linux utilizados en ubuntu.
     mv archivo nuevo_nombre_del_archivo
 
   renombra archivo o carpeta
+
+    cp * 
+
+copia todos los archivos o carpeta que contenga la ruta actual
