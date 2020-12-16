@@ -4,7 +4,7 @@ title:  "Ngrok"
 date:   2020-12-06 12:02:36 +0530
 categories: Ngrok
 ---
-En este post quiero incluir algunas notas sobre Ngrok.
+En este post quiero incluir algunas notas sobre como utilizar la herramienta Ngrok.
 
 
 Descargar Ngrok [enlace][enlace]
