@@ -13,7 +13,7 @@ En este documento he recopilado algunos comandos linux utilizados en ubuntu.
 ### pwd
   
   El comando PWD en linux te devuelve la ruta en la que estás situado, se suele utilizar para saber en que parte de la estructura de directorios te encuentras.
-
+```
 ### ls -l
   
   Lista el contenido de la carpeta actual
@@ -32,16 +32,16 @@ En este documento he recopilado algunos comandos linux utilizados en ubuntu.
 
 ### chmod 777 archivo
 
-Cambia los permisos de un archivo o carpeta
+  Cambia los permisos de un archivo o carpeta
 
 ### cp -r archivo /home/ruta_para_la_copia
 
-copia un archivo o carpeta 
+  copia un archivo o carpeta 
 
 ### mv archvo /home/ruta_para_el_archivo
 
-mueve un archivo o carpeta
+  mueve un archivo o carpeta
 
 ### mv archivo nuevo_nombre_del_archivo
 
-renombra archivo o carpeta
+  renombra archivo o carpeta
