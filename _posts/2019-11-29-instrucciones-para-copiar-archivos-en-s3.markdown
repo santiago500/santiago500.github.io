@@ -4,7 +4,7 @@ title:  "Instrucciones para copiar archivos en S3"
 date:   2019-11-29 21:03:36 +0530
 categories: AWS
 ---
-En la actualidad pago los servicios de Amazon AWS para mantener el proyecto [fleteo.co][fleteo-oficial] en funcionamiento.
+En la actualidad pago los servicios de Amazon AWS para mantener mis proyectos en funcionamiento.
 
 Me encontre con la necesidad de usar el servicio S3 para mantener copia de mis archivos en la nube, pero no estaba familiarizado con los comandos necesarios para realizar dicha actividad.
 
@@ -58,4 +58,3 @@ aws s3 sync . s3://hguzman-storage --delete
 Puede verificar la lista de comandos en el [sitio oficial][sitio-oficial] para más información.
 
 [sitio-oficial]: https://docs.aws.amazon.com/cli/latest/reference/s3/cp.html
-[fleteo-oficial]: https://fleteo.co
