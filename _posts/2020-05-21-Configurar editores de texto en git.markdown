@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "configurar editores de texto en git"
-date:   2020-12-06 12:02:36 +0530
+date:   2020-05-21 12:02:36 +0530
 categories: git
 ---
 Git trae por defecto el editor de texto Vim, pero comparandolo con otros resulta más complicado manejarlo y no ofrece todas la herramientas para el desarrollo de proyectos, por eso hoy les estare presentando como configurar editores de texto en git.
