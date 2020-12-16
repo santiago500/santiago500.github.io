@@ -48,14 +48,14 @@ En este documento he recopilado algunos comandos linux utilizados en ubuntu.
 
     cp * 
 
-copia todos los archivos o carpeta que contenga la ruta actual
+  copia todos los archivos o carpeta que contenga la ruta actual
 
     mv *
     
-mueve todos los archivos o carpeta que contenga la ruta actual
+  mueve todos los archivos o carpeta que contenga la ruta actual
 
     rm -rf *
 
-Elimina todos los archivos o carpeta que contenga la ruta actual
+  Elimina todos los archivos o carpeta que contenga la ruta actual
 
  
