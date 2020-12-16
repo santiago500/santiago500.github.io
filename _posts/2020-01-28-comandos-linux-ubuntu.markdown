@@ -18,8 +18,7 @@ En este documento he recopilado algunos comandos linux utilizados en ubuntu.
 ### ls -l
   
   Lista el contenido de la carpeta actual
------------------------------------------
-
+---
 
 ### mkdir carpeta
 
