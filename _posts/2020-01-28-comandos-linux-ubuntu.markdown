@@ -31,7 +31,7 @@ mkdir carpeta
 cd
 ```
 
-Cambia de carpeta o directorio, se puede utilizar **cd ..** para regresar a la carpeta anterior
+    Cambia de carpeta o directorio, se puede utilizar **cd ..** para regresar a la carpeta anterior
 
 ```shell
 rm -rf carpeta
