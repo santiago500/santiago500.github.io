@@ -11,14 +11,12 @@ En este documento he recopilado algunos comandos linux utilizados en ubuntu.
 
 
 ### pwd
-
-
-    El comando PWD en linux te devuelve la ruta en la que estás situado, se suele utilizar para saber en que parte de la estructura de directorios te encuentras.
+  
+  El comando PWD en linux te devuelve la ruta en la que estás situado, se suele utilizar para saber en que parte de la estructura de directorios te encuentras.
 
 ### ls -l
-
-
-    Lista el contenido de la carpeta actual
+  
+  Lista el contenido de la carpeta actual
 
 ### mkdir carpeta
 
