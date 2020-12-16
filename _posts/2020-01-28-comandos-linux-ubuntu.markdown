@@ -25,7 +25,7 @@ ls -l
 mkdir carpeta
 ```
 
-Crea una nueva carpeta en la ruta actual
+    Crea una nueva carpeta en la ruta actual
 
 ```shell
 cd
