@@ -4,8 +4,9 @@ title:  "Instalacion de Ruby on Rails sobre windows 10"
 date:   2020-05-20 16:00:00 +0530
 categories: so
 ---
+Pasos para instalar ruby on rails sobre windows 10 a traves de wsl
 
-# Pasos para instalar ruby on rails sobre windows 10 a traves de wsl
+
 
 1. Requisitos para instalar wsl(subsystem linux for windows), en windows 10.
 
