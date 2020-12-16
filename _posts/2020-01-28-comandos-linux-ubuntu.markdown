@@ -9,17 +9,17 @@ En este documento he recopilado algunos comandos linux utilizados en ubuntu.
 
 ## Lista de instrucciones
 
-    ```shell
-    pwd
-    ```
+```shell
+pwd
+```
 
-El comando PWD en linux te devuelve la ruta en la que estás situado, se suele utilizar para saber en que parte de la estructura de directorios te encuentras.
+    El comando PWD en linux te devuelve la ruta en la que estás situado, se suele utilizar para saber en que parte de la estructura de directorios te encuentras.
 
-    ```shell
-    ls -l
-    ```
+```shell
+ls -l
+```
 
-Lista el contenido de la carpeta actual
+    Lista el contenido de la carpeta actual
 
 ```shell
 mkdir carpeta
