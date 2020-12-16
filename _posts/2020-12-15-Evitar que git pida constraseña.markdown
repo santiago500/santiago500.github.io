@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evitar que git vuelva a pedir contraseña y usuario"
+title:  "Evitar que git vuelva a pedir contraseña y usuario al hacer push y pull"
 date:   2020-12-06 12:02:36 +0530
 categories: git
 ---
