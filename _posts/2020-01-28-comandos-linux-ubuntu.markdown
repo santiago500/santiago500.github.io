@@ -46,11 +46,11 @@ En este documento he recopilado algunos comandos linux utilizados en ubuntu.
 
   renombra archivo o carpeta
 
-    cp * 
+    cp * /home/ruta_para_los_archivos
 
   copia todos los archivos o carpeta que contenga la ruta actual
 
-    mv *
+    mv * /home/ruta_para_los_archivos
     
   mueve todos los archivos o carpeta que contenga la ruta actual
 
