@@ -16,7 +16,7 @@ actualizar repositorio
 apt update && apt upgrade -y
 ```
 
-le damos acceso al almacenamiento:
+le damos acceso al almacenamiento interno:
 
 ```shell
 termux-setup-storage
