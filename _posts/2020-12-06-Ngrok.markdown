@@ -2,7 +2,7 @@
 layout: post
 title:  "Ngrok"
 date:   2020-12-06 12:02:36 +0530
-categories: Ngrok
+categories: Ngrok Apache
 ---
 En este post quiero incluir algunas notas sobre como utilizar la herramienta Ngrok.
 

