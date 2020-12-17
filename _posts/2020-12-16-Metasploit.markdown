@@ -42,10 +42,10 @@ preparamos metasploit
 
 instalamos y ejecutamos el apk en el android a atacar
 
-<img src="{{ "/assets/img/tor.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
+<img src="{{ "/assets/img/apk.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
 
 ejecutamos el exploit:
 
     exploit
     
-[aqui]: https://santiago60.github.io/termux/2020-12-16-termux.markdown
+[aqui]: https://santiago60.github.io/termux/2020/12/06/termux.html
