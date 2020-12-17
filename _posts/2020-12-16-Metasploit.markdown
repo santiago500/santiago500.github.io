@@ -35,8 +35,9 @@ generar payload:
 abrimos la consola:
 
     msfconsole
-    
-    <img src="{{ "/assets/img/msfconsole.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
+
+<img src="{{ "/assets/img/msfconsole.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
+  
 
 preparamos metasploit
 
