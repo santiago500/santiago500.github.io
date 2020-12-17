@@ -1,0 +1,25 @@
+---
+layout: post
+title: "termux"
+date:   2020-12-06 12:02:36 +0530
+categories: termux
+---
+En este post quiero incluir algunas notas sobre la instalacion de termux.
+
+instalar [termux][termux] desde la google play 
+
+<img src="{{ "/assets/img/termux.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
+
+actualizar repositorio
+
+```shell
+apt update && apt upgrade -y
+```
+
+le damos acceso al almacenamiento:
+
+```shell
+termux-setup-storage
+```
+
+[termux]: https://play.google.com/store/apps/details?id=com.termux
