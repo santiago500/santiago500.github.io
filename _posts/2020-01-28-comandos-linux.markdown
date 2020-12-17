@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Comandos linux ubuntu"
+title:  "Comandos linux"
 date:   2020-01-28 13:00:00 +0530
 categories: SO
 ---
 
-En este documento he recopilado algunos comandos linux utilizados en ubuntu.
+En este documento he recopilado algunos comandos linux.
 
 ## Lista de instrucciones
 
