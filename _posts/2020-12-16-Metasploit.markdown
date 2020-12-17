@@ -2,7 +2,7 @@
 layout: post
 title:  "Metasploit"
 date:   2020-12-06 12:02:36 +0530
-categories: Metasploit
+categories: Metasploit termux
 ---
 En este post quiero incluir algunas notas sobre como hacer un ataque a android y windows desde termux con la herramienta Metasploit
 
