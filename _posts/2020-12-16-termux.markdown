@@ -6,7 +6,7 @@ categories: termux
 ---
 En este post quiero incluir algunas notas sobre la instalacion de termux.
 
-instalar [termux][termux] desde la google play 
+instalar [termux][termux] desde la play store 
 
 <img src="{{ "/assets/img/termux.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
 
