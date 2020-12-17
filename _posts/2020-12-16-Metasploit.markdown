@@ -9,18 +9,12 @@ En este post quiero incluir algunas notas sobre como hacer un ataque a android y
 la instalacion de texmux la encuentra [aqui][aqui]
 
 
-
-Actualizar repositorios:
-
+### instalacion de Metasploit:
+```shell    
     apt update && apt upgrade
-
-
-instalacion de Metasploit:
-
-
     pkg install unstable-repo
     pkg install metasploit
-
+```
 
 ### Ataque a android
 
