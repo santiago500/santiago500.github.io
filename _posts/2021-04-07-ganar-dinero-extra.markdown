@@ -2,7 +2,7 @@
 layout: post
 title: "ganar dinero extra"
 date:   2021-04-07 12:02:36 +0530
-categories: ganar dinero extra
+categories: dinero
 ---
 solo consiste es descargar una aplicacion y ver videos, por ver esos videos, te pagan y luego puedes retirar por nequi o transferencia bancaria.
 
