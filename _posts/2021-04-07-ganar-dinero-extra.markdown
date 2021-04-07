@@ -18,7 +18,7 @@ descargar [aqui][aqui]
 
 ## Paso 2
 
-ingresar al link y sigue los pasos que te muestra.
+ingresar al enlace y sigue los pasos que te muestra.
 
 ingresar [aqui][link]
 
