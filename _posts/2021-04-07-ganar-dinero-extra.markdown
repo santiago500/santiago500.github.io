@@ -6,23 +6,23 @@ categories: ganar dinero extra
 ---
 solo consiste es descargar una aplicacion y ver videos, por ver esos videos, te pagan y luego puedes retirar por nequi o transferencia bancaria.
 
-#
+----------------------------------------------------------
 
 ## Paso 1
 
 instalar aplicacion desde la play store.
 
-descarga [aqui][aqui]
+descargar [aqui][aqui]
 
-#
+----------------------------------------------------------
 
 ## Paso 2
 
 ingresar al link y sigue los pasos que te muestra.
 
-ingresa [aqui][link]
+ingresar [aqui][link]
 
-#
+----------------------------------------------------------
 
 listo eso era todo!!!, desde ahora puedes generar ingresos extra.
 
